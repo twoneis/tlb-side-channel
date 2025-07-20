@@ -11,7 +11,7 @@
 #define DPM_START	0xffff888000000000
 #define DPM_END		0xffffc87fffffffff
 
-#define DPM_THRESHOLD	40
+#define DPM_THRESHOLD	36
 
 #define TRIES		40
 
